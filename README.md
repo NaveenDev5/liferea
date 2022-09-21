@@ -3,7 +3,7 @@
 [![Packages](https://repology.org/badge/latest-versions/liferea.svg)](https://repology.org/metapackage/liferea/versions)
 [![Packages](https://repology.org/badge/tiny-repos/liferea.svg)](https://repology.org/metapackage/liferea/versions)
 [![Dependency](https://img.shields.io/librariesio/github/lwindolf/liferea)](https://libraries.io/github/lwindolf/liferea)
-
+[![kandi X-Ray](https://kandi.openweaver.com/badges/xray.svg)](https://kandi.openweaver.com/c/lwindolf/liferea)
 Introduction
 ------------
 
